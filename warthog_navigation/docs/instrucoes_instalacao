@@ -1,0 +1,8 @@
+PRECISA INSTALAR PARA RODAR O CHALLENGE
+
+# move_base
+sudo apt-get install ros-melodic-move-base
+
+# dwa-local-planner
+sudo apt-get install ros-melodic-dwa-local-planner
+
